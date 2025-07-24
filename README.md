@@ -38,7 +38,7 @@ Children can learn by building real circuits in a safe and intuitive way, with o
 - Programming via:
   - [Microsoft MakeCode](https://makecode.microbit.org/)
   - [Pictoblox](https://pictoblox.ai/) (can include AI and image recognition)
-  - RXWorks (educational logic environment)
+  - RXWorks (laser software)
 
 ---
 
